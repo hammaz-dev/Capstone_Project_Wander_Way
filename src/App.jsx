@@ -22,6 +22,7 @@ function App() {
           <Route path="/saved"      element={<SavedTrips />}  />
         </Routes>
       </BrowserRouter>
+      </BrowserRouter>
     </TripProvider>
   )
 }
