@@ -7,15 +7,15 @@ Plan trips, explore destinations, and get smart travel suggestions — all in on
 
 ## ✨ Features
 
-* 🔎 Search destinations easily
-* 🤖 AI-based travel suggestions
-* 🧭 Smart trip planning interface
-* ⚡ Fast and responsive UI
-* 🎨 Clean and modern design
+*  Search destinations easily
+*  AI-based travel suggestions
+*  Smart trip planning interface
+*  Fast and responsive UI
+*  Clean and modern design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React.js
 * **Styling:** Tailwind CSS
@@ -24,7 +24,7 @@ Plan trips, explore destinations, and get smart travel suggestions — all in on
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 wander-way/
@@ -40,27 +40,27 @@ wander-way/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```
 git clone https://github.com/your-username/wander-way.git
 ```
 
-### 2️⃣ Navigate to project
+### 2️ Navigate to project
 
 ```
 cd travel-simple
 ```
 
-### 3️⃣ Install dependencies
+### 3️ Install dependencies
 
 ```
 npm install
 ```
 
-### 4️⃣ Run the app
+### 4️ Run the app
 
 ```
 npm run dev
@@ -68,9 +68,9 @@ npm run dev
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-
+https://drive.google.com/file/d/1YUEEc1K9x8cwOiWRjk9t60LLvQ-4oDST/view?usp=sharing
 
 ---
 
@@ -81,7 +81,7 @@ npm run dev
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * 🌍 Real-time travel data integration
 * 🗺️ Maps & route optimization
@@ -90,19 +90,19 @@ npm run dev
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 Feel free to fork the repo and submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Hammaz**
 
